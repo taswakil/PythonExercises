@@ -1,2 +1,2 @@
-x 10
+x = 10
 print("The variable value is", x)
